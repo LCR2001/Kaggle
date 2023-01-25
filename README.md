@@ -21,3 +21,10 @@
 - Target class:
          - Malignant
          - Benign
+
+### Improving the Model
+1) Feature Scaling_Unity-Based Normalization
+- Before
+![정규화1_before](https://user-images.githubusercontent.com/91776093/214646717-749f3b02-0bc8-41cc-8fee-61f8a930c44c.png)
+- After
+![정규화1_after](https://user-images.githubusercontent.com/91776093/214646807-693675eb-7924-4f66-b4a5-522c74fc2424.png)
