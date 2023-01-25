@@ -47,3 +47,6 @@
 ![정규화1_before](https://user-images.githubusercontent.com/91776093/214646717-749f3b02-0bc8-41cc-8fee-61f8a930c44c.png)
 - After
 ![정규화1_after](https://user-images.githubusercontent.com/91776093/214646807-693675eb-7924-4f66-b4a5-522c74fc2424.png)
+
+2) SVM 파라미터 값 조정
+![image](https://user-images.githubusercontent.com/91776093/214654289-3cae65e1-d75e-4c7d-b2f8-a82a16fa40cc.png)
